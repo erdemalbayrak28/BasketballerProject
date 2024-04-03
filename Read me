@@ -1,0 +1,1 @@
+NavController metodu ile oluşturduğum sayfalar arasında geçiş yapmanıza gerek kalmadan sadece kaydırarak sayfalar arasında geçiş yapabileceğiniz basit bir uygulama. Amaç içerikten çok backend kısmı frontende çok takılmayınız ama ilerleyen zamanlarda çok daha kapsamlı ve büyük bir frontend kısmı getirip uygulamayı geliştireceğim. Şimdilik sağlıcakla kalın.
